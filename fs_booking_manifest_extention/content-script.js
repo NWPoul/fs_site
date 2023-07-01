@@ -10,11 +10,7 @@ function markFirstTimersBookings() {
 function formatFirstTimerTd(tdList) {
     tdList.forEach(td => {
         if (!td.innerHTML.includes("Общий")) {
-            td.innerHTML = 'ПР'
-            // td.style.color = 'red'
             td.setAttribute("data-pr", "1")
-        } else {
-            td.innerHTML = 'Спорт'
         }
     })
 }

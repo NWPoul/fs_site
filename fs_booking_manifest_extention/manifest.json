@@ -1,0 +1,26 @@
+{
+    "name": "FS_TEST",
+    "action": {},
+    "manifest_version": 3,
+    "version": "0.1",
+    "description": "Test Modify FS page",
+    "permissions": [
+        "alarms",
+        "tabs",
+        "activeTab",
+        "scripting",
+        "notifications",
+        "declarativeNetRequest",
+        "declarativeNetRequestFeedback"
+    ],
+    "host_permissions": [
+        "https://booking.flystation.net/*"
+    ],
+    "content_scripts": [
+        {
+          "matches": ["https://booking.flystation.net/*"],
+          "css": ["override-style.css"],
+          "js": ["content-script.js"]
+        }
+    ]
+}

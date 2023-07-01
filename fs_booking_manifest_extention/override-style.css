@@ -1,0 +1,94 @@
+div.MuiPaper-elevation1 {
+    max-height: 100%;
+    box-shadow: unset;
+}
+
+div.booking-content__left.width-full {
+    width: 55em;
+    height: unset;
+    margin: 0.5em;
+    padding: 5px 0px 5px 0.5em;
+}
+
+.MuiTableCell-stickyHeader {
+    top: 0 !important;
+}
+
+tr.booking__timeslot-row_separator {
+    height: 1em;
+}
+
+tr.MuiTableRow-head:first-child {
+    display: none;
+}
+
+
+td.MuiTableCell-body {
+    padding: 7px;
+    white-space: pre;
+    font-size: 16px;
+    color: inherit;
+}
+
+/* td.MuiTableCell-body:nth-child(3),
+td.MuiTableCell-body:nth-child(5) {
+    display:none
+} */
+
+td.MuiTableCell-body:nth-child(1) {
+    font-weight: 600;
+}
+
+td.MuiTableCell-body:nth-child(2) {
+    padding: 0;
+    color: grey;
+    font-size: 0.75em;
+}
+
+.booking__timeslot-row-time {
+    font-size: 1.15em;
+    font-weight: 600;
+    line-height: 1.15;
+    text-align: center;
+    background: rgb(132 185 112) !important;
+}
+td.booking__timeslot-row-time {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 5px;
+}
+
+.hasFreeTime>.booking__timeslot-row-time {
+    border-bottom: solid 3px greenyellow;
+}
+
+
+
+tr.bookings__row:nth-child(odd),
+tr.bookings__row:nth-child(2n) {
+    background-color: #9cc09d;
+}
+
+tr.MuiTableRow-hover.bookings__row:hover {
+    background-color: rgb(71 104 70 / 50%);
+}
+
+.booking__timeslot-row-btn_add {
+    background-color: #d7ffd6;
+}
+
+
+tr.bookings__row:has([data-pr="1"]) {
+    color: rgb(255, 0, 0);
+}
+
+#magicBtn {
+    margin-left: 2em;
+    background-color: unset;
+    color: red;
+    border-color: red;
+    border-width: 3px;
+    border-radius: 0.5em;
+    font-weight: 800;
+}
+
+

@@ -2,9 +2,16 @@
     font-size: 18px;
 } */
 
-body {
-    padding-left: 1em;
-    width: 50em;
+div.MuiPaper-elevation1 {
+    max-height: 100%;
+    box-shadow: unset;
+}
+
+div.booking-content__left.width-full {
+    width: 55em;
+    height: unset;
+    margin: 0.5em;
+    padding: 5px 0px 5px 0.5em;
 }
 
 .MuiTableCell-stickyHeader {

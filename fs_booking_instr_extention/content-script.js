@@ -2,7 +2,7 @@
 
 function markFirstTimersBookings() {
     const tdList = document.querySelectorAll('td.MuiTableCell-sizeMedium:nth-child(4)')
-    
+
     if (!tdList?.length > 0) return
     formatFirstTimerTd(tdList)
 }
@@ -58,6 +58,7 @@ function serMutationObserver() {
 function addMagicBtn() {
     const target = document.querySelector('div.booking-header__left')
     if (!target) return
+    if (document.getElementById('magicBtn')) return
 
     // console.log(target)
     const magicBtn = document.createElement('button')
@@ -89,3 +90,8 @@ function addMagicBtn() {
     //     60000
     // )
 }
+
+setTimeout(
+    addMagicBtn,
+    500
+)

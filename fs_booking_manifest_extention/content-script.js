@@ -9,7 +9,7 @@ function markFirstTimersBookings() {
 
 function formatFirstTimerTd(tdList) {
     tdList.forEach(td => {
-        if (!td.innerHTML.includes("Общий")) {
+        if ( (td.innerHTML.includes("Общий") || td.innerHTML.includes("Спорт")) === false) {
             td.setAttribute("data-pr", "1")
         }
     })
@@ -72,16 +72,4 @@ function addMagicBtn() {
         addMagicBtn,
         500
     )
-    // setTimeout(
-    //     serMutationObserver,
-    //     500
-    // )
-    // setTimeout(
-    //     markFirstTimersBookings,
-    //     3000
-    // )
-    // setInterval(
-    //     markFirstTimersBookings,
-    //     60000
-    // )
 }

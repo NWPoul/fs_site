@@ -9,7 +9,7 @@ function markFirstTimersBookings() {
 
 function formatFirstTimerTd(tdList) {
     tdList.forEach(td => {
-        if (!td.innerHTML.includes("Общий")) {
+        if ( (td.innerHTML.includes("Общий") || td.innerHTML.includes("Спорт")) === false) {
             td.innerHTML = 'ПР'
             // td.style.color = 'red'
             td.setAttribute("data-pr", "1")
@@ -36,24 +36,6 @@ function checkSlotFreetime() {
 }
 
 
-
-function serMutationObserver() {
-    const mutationObserver = new MutationObserver(function (mutations) {
-        // mutations.forEach(function (mutation) {
-        //     console.log(mutation);
-        // });
-        console.log(mutations);
-    });
-
-    mutationObserver.observe(
-        document.querySelector('tbody.MuiTableBody-root'),
-        {
-            characterData: true,
-            childList: true,
-            subtree: true,
-        },
-    );
-}
 
 function addMagicBtn() {
     const target = document.querySelector('div.booking-header__left')

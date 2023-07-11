@@ -1,0 +1,2428 @@
+{
+    "data": [
+        {
+            "date": "2023-07-04",
+            "timeId": 0,
+            "dateStart": {
+                "date": "2023-07-04 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 00:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 1,
+            "dateStart": {
+                "date": "2023-07-04 00:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 01:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 2,
+            "dateStart": {
+                "date": "2023-07-04 01:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 01:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 3,
+            "dateStart": {
+                "date": "2023-07-04 01:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 02:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 4,
+            "dateStart": {
+                "date": "2023-07-04 02:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 02:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 5,
+            "dateStart": {
+                "date": "2023-07-04 02:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 6,
+            "dateStart": {
+                "date": "2023-07-04 03:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 03:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 7,
+            "dateStart": {
+                "date": "2023-07-04 03:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 04:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 8,
+            "dateStart": {
+                "date": "2023-07-04 04:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 04:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 9,
+            "dateStart": {
+                "date": "2023-07-04 04:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 05:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 10,
+            "dateStart": {
+                "date": "2023-07-04 05:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 05:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 11,
+            "dateStart": {
+                "date": "2023-07-04 05:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 12,
+            "dateStart": {
+                "date": "2023-07-04 06:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 06:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 13,
+            "dateStart": {
+                "date": "2023-07-04 06:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 07:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 14,
+            "dateStart": {
+                "date": "2023-07-04 07:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 07:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 15,
+            "dateStart": {
+                "date": "2023-07-04 07:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 08:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 16,
+            "dateStart": {
+                "date": "2023-07-04 08:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 08:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 17,
+            "dateStart": {
+                "date": "2023-07-04 08:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 18,
+            "dateStart": {
+                "date": "2023-07-04 09:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 09:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 19,
+            "dateStart": {
+                "date": "2023-07-04 09:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 10:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 20,
+            "dateStart": {
+                "date": "2023-07-04 10:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 10:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 21,
+            "dateStart": {
+                "date": "2023-07-04 10:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 11:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 15,
+            "timeBooking": 15,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 4943,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 10:30:00",
+                    "date_end": "2023-07-04 10:45:00",
+                    "time_id": 7994,
+                    "order_id": null,
+                    "user_id": 5045,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-06-29 17:34:37",
+                    "updated_at": "2023-06-29 17:34:37",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 21,
+                        "date_start": "2023-07-04 10:30:00",
+                        "date_end": "2023-07-04 11:00:00"
+                    },
+                    "time": {
+                        "id": 7994,
+                        "minutes": 15,
+                        "balance_user_id": 208,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-29T14:34:37.000000Z",
+                        "updated_at": "2023-06-29T14:34:37.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "15",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 22,
+            "dateStart": {
+                "date": "2023-07-04 11:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 11:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 23,
+            "dateStart": {
+                "date": "2023-07-04 11:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 4944,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 11:30:00",
+                    "date_end": "2023-07-04 11:45:00",
+                    "time_id": 7995,
+                    "order_id": null,
+                    "user_id": 5045,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-06-29 17:34:45",
+                    "updated_at": "2023-06-29 17:34:45",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 23,
+                        "date_start": "2023-07-04 11:30:00",
+                        "date_end": "2023-07-04 12:00:00"
+                    },
+                    "time": {
+                        "id": 7995,
+                        "minutes": 15,
+                        "balance_user_id": 208,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-29T14:34:45.000000Z",
+                        "updated_at": "2023-06-29T14:34:45.000000Z"
+                    }
+                },
+                {
+                    "id": 4971,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 11:45:00",
+                    "date_end": "2023-07-04 12:00:00",
+                    "time_id": 8011,
+                    "order_id": null,
+                    "user_id": 6701,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-06-30 12:36:50",
+                    "updated_at": "2023-06-30 12:36:50",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 23,
+                        "date_start": "2023-07-04 11:30:00",
+                        "date_end": "2023-07-04 12:00:00"
+                    },
+                    "time": {
+                        "id": 8011,
+                        "minutes": 15,
+                        "balance_user_id": 160,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-30T09:36:50.000000Z",
+                        "updated_at": "2023-06-30T09:36:50.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 24,
+            "dateStart": {
+                "date": "2023-07-04 12:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 12:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 25,
+            "dateStart": {
+                "date": "2023-07-04 12:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 13:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 15,
+            "timeBooking": 15,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 4972,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 12:30:00",
+                    "date_end": "2023-07-04 12:45:00",
+                    "time_id": 8012,
+                    "order_id": null,
+                    "user_id": 6701,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-06-30 12:36:57",
+                    "updated_at": "2023-06-30 12:36:57",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 25,
+                        "date_start": "2023-07-04 12:30:00",
+                        "date_end": "2023-07-04 13:00:00"
+                    },
+                    "time": {
+                        "id": 8012,
+                        "minutes": 15,
+                        "balance_user_id": 160,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-30T09:36:57.000000Z",
+                        "updated_at": "2023-06-30T09:36:57.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "15",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 26,
+            "dateStart": {
+                "date": "2023-07-04 13:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 13:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 5184,
+                    "minutes": 30,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 13:00:00",
+                    "date_end": "2023-07-04 13:30:00",
+                    "time_id": null,
+                    "order_id": 4468,
+                    "user_id": 8573,
+                    "type_id": 2,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-07-03 19:14:12",
+                    "updated_at": "2023-07-03 19:14:12",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 26,
+                        "date_start": "2023-07-04 13:00:00",
+                        "date_end": "2023-07-04 13:30:00"
+                    },
+                    "time": null
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 27,
+            "dateStart": {
+                "date": "2023-07-04 13:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 14:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": -1,
+            "timeBooking": 31,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 5143,
+                    "minutes": 6,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 13:30:00",
+                    "date_end": "2023-07-04 13:36:00",
+                    "time_id": null,
+                    "order_id": 3961,
+                    "user_id": 8562,
+                    "type_id": 1,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-07-03 12:03:00",
+                    "updated_at": "2023-07-03 12:03:00",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 27,
+                        "date_start": "2023-07-04 13:30:00",
+                        "date_end": "2023-07-04 14:00:00"
+                    },
+                    "time": null
+                },
+                {
+                    "id": 3764,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 13:30:00",
+                    "date_end": "2023-07-04 13:45:00",
+                    "time_id": 6766,
+                    "order_id": null,
+                    "user_id": 6817,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "\u0410",
+                    "temp_google_id": 369018,
+                    "created_at": "2023-06-21 21:17:58",
+                    "updated_at": "2023-07-03 15:37:30",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 27,
+                        "date_start": "2023-07-04 13:30:00",
+                        "date_end": "2023-07-04 14:00:00"
+                    },
+                    "time": {
+                        "id": 6766,
+                        "minutes": 15,
+                        "balance_user_id": 130,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:17:58.000000Z",
+                        "updated_at": "2023-07-03T12:37:30.000000Z"
+                    }
+                },
+                {
+                    "id": 5150,
+                    "minutes": 10,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 13:36:00",
+                    "date_end": "2023-07-04 13:46:00",
+                    "time_id": 8135,
+                    "order_id": null,
+                    "user_id": 4817,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": "\u0420\u0443\u0441\u043b\u0430\u043d \u041b\u0430\u0432\u0440\u043e\u0432",
+                    "temp_google_id": null,
+                    "created_at": "2023-07-03 12:26:58",
+                    "updated_at": "2023-07-03 12:26:58",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 27,
+                        "date_start": "2023-07-04 13:30:00",
+                        "date_end": "2023-07-04 14:00:00"
+                    },
+                    "time": {
+                        "id": 8135,
+                        "minutes": 10,
+                        "balance_user_id": 150,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-07-03T09:26:58.000000Z",
+                        "updated_at": "2023-07-03T09:26:58.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "31",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 28,
+            "dateStart": {
+                "date": "2023-07-04 14:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 14:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 4060,
+                    "minutes": 10,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 14:00:00",
+                    "date_end": "2023-07-04 14:10:00",
+                    "time_id": null,
+                    "order_id": 4137,
+                    "user_id": 8358,
+                    "type_id": 2,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 6,
+                    "comment": "\u043e\u043f\u043b \u043d\u0430 \u043c\u0435\u0441\u0442\u0435",
+                    "temp_google_id": 370336,
+                    "created_at": "2023-06-21 21:18:06",
+                    "updated_at": "2023-06-21 21:18:06",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 28,
+                        "date_start": "2023-07-04 14:00:00",
+                        "date_end": "2023-07-04 14:30:00"
+                    },
+                    "time": null
+                },
+                {
+                    "id": 5131,
+                    "minutes": 20,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 14:10:00",
+                    "date_end": "2023-07-04 14:30:00",
+                    "time_id": 8126,
+                    "order_id": null,
+                    "user_id": 6609,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-07-03 11:27:10",
+                    "updated_at": "2023-07-03 11:27:10",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 28,
+                        "date_start": "2023-07-04 14:00:00",
+                        "date_end": "2023-07-04 14:30:00"
+                    },
+                    "time": {
+                        "id": 8126,
+                        "minutes": 20,
+                        "balance_user_id": 215,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-07-03T08:27:10.000000Z",
+                        "updated_at": "2023-07-03T08:27:10.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 29,
+            "dateStart": {
+                "date": "2023-07-04 14:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": -2,
+            "timeBooking": 32,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 5145,
+                    "minutes": 2,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 14:30:00",
+                    "date_end": "2023-07-04 14:32:00",
+                    "time_id": null,
+                    "order_id": 4452,
+                    "user_id": 8564,
+                    "type_id": 2,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": "\u0431\u0443\u0434\u0435\u0442 \u0441\u0435\u0440\u0442, 10005257",
+                    "temp_google_id": null,
+                    "created_at": "2023-07-03 12:10:39",
+                    "updated_at": "2023-07-03 12:36:49",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 29,
+                        "date_start": "2023-07-04 14:30:00",
+                        "date_end": "2023-07-04 15:00:00"
+                    },
+                    "time": null
+                },
+                {
+                    "id": 5163,
+                    "minutes": 30,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 14:30:00",
+                    "date_end": "2023-07-04 15:00:00",
+                    "time_id": 8137,
+                    "order_id": null,
+                    "user_id": 6817,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": "\u0410",
+                    "temp_google_id": null,
+                    "created_at": "2023-07-03 15:38:49",
+                    "updated_at": "2023-07-03 15:38:49",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 29,
+                        "date_start": "2023-07-04 14:30:00",
+                        "date_end": "2023-07-04 15:00:00"
+                    },
+                    "time": {
+                        "id": 8137,
+                        "minutes": 30,
+                        "balance_user_id": 130,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-07-03T12:38:49.000000Z",
+                        "updated_at": "2023-07-03T12:38:49.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "32",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 30,
+            "dateStart": {
+                "date": "2023-07-04 15:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 15:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 20,
+            "timeBooking": 10,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3917,
+                    "minutes": 10,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 15:00:00",
+                    "date_end": "2023-07-04 15:10:00",
+                    "time_id": 7050,
+                    "order_id": null,
+                    "user_id": 6727,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "2 \u043c\u0438\u043d",
+                    "temp_google_id": 370007,
+                    "created_at": "2023-06-21 21:18:02",
+                    "updated_at": "2023-06-29 13:35:37",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 30,
+                        "date_start": "2023-07-04 15:00:00",
+                        "date_end": "2023-07-04 15:30:00"
+                    },
+                    "time": {
+                        "id": 7050,
+                        "minutes": 10,
+                        "balance_user_id": 146,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:18:02.000000Z",
+                        "updated_at": "2023-06-29T10:35:37.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "10",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 31,
+            "dateStart": {
+                "date": "2023-07-04 15:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 16:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 9,
+            "timeBooking": 21,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 4951,
+                    "minutes": 6,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 15:30:00",
+                    "date_end": "2023-07-04 15:36:00",
+                    "time_id": null,
+                    "order_id": 4381,
+                    "user_id": 8523,
+                    "type_id": 2,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": "10003947",
+                    "temp_google_id": null,
+                    "created_at": "2023-06-29 18:07:07",
+                    "updated_at": "2023-06-29 18:07:07",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 31,
+                        "date_start": "2023-07-04 15:30:00",
+                        "date_end": "2023-07-04 16:00:00"
+                    },
+                    "time": null
+                },
+                {
+                    "id": 5180,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 15:36:00",
+                    "date_end": "2023-07-04 15:51:00",
+                    "time_id": 8142,
+                    "order_id": null,
+                    "user_id": 5850,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-07-03 18:34:10",
+                    "updated_at": "2023-07-03 18:34:10",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 31,
+                        "date_start": "2023-07-04 15:30:00",
+                        "date_end": "2023-07-04 16:00:00"
+                    },
+                    "time": {
+                        "id": 8142,
+                        "minutes": 15,
+                        "balance_user_id": 219,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-07-03T15:34:10.000000Z",
+                        "updated_at": "2023-07-03T15:34:10.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "21",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 32,
+            "dateStart": {
+                "date": "2023-07-04 16:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 16:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3765,
+                    "minutes": 30,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 16:00:00",
+                    "date_end": "2023-07-04 16:30:00",
+                    "time_id": 6768,
+                    "order_id": null,
+                    "user_id": 6817,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "\u0410",
+                    "temp_google_id": 369019,
+                    "created_at": "2023-06-21 21:17:58",
+                    "updated_at": "2023-06-21 21:17:58",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 32,
+                        "date_start": "2023-07-04 16:00:00",
+                        "date_end": "2023-07-04 16:30:00"
+                    },
+                    "time": {
+                        "id": 6768,
+                        "minutes": 30,
+                        "balance_user_id": 130,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:17:58.000000Z",
+                        "updated_at": "2023-06-21T18:17:58.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 33,
+            "dateStart": {
+                "date": "2023-07-04 16:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 17:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3915,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 16:30:00",
+                    "date_end": "2023-07-04 16:45:00",
+                    "time_id": 7046,
+                    "order_id": null,
+                    "user_id": 6727,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "1,5 \u043c\u0438\u043d",
+                    "temp_google_id": 370005,
+                    "created_at": "2023-06-21 21:18:02",
+                    "updated_at": "2023-06-21 21:18:02",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 33,
+                        "date_start": "2023-07-04 16:30:00",
+                        "date_end": "2023-07-04 17:00:00"
+                    },
+                    "time": {
+                        "id": 7046,
+                        "minutes": 15,
+                        "balance_user_id": 146,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:18:02.000000Z",
+                        "updated_at": "2023-06-21T18:18:02.000000Z"
+                    }
+                },
+                {
+                    "id": 5181,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 16:45:00",
+                    "date_end": "2023-07-04 17:00:00",
+                    "time_id": 8143,
+                    "order_id": null,
+                    "user_id": 5850,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-07-03 18:34:17",
+                    "updated_at": "2023-07-03 18:34:17",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 33,
+                        "date_start": "2023-07-04 16:30:00",
+                        "date_end": "2023-07-04 17:00:00"
+                    },
+                    "time": {
+                        "id": 8143,
+                        "minutes": 15,
+                        "balance_user_id": 219,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-07-03T15:34:17.000000Z",
+                        "updated_at": "2023-07-03T15:34:17.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 34,
+            "dateStart": {
+                "date": "2023-07-04 17:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 17:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3766,
+                    "minutes": 30,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 17:00:00",
+                    "date_end": "2023-07-04 17:30:00",
+                    "time_id": 6770,
+                    "order_id": null,
+                    "user_id": 6817,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "\u0410",
+                    "temp_google_id": 369020,
+                    "created_at": "2023-06-21 21:17:58",
+                    "updated_at": "2023-06-21 21:17:58",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 34,
+                        "date_start": "2023-07-04 17:00:00",
+                        "date_end": "2023-07-04 17:30:00"
+                    },
+                    "time": {
+                        "id": 6770,
+                        "minutes": 30,
+                        "balance_user_id": 130,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:17:58.000000Z",
+                        "updated_at": "2023-06-21T18:17:58.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 35,
+            "dateStart": {
+                "date": "2023-07-04 17:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 15,
+            "timeBooking": 15,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3916,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 17:30:00",
+                    "date_end": "2023-07-04 17:45:00",
+                    "time_id": 7048,
+                    "order_id": null,
+                    "user_id": 6727,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "1,5 \u043c\u0438\u043d",
+                    "temp_google_id": 370006,
+                    "created_at": "2023-06-21 21:18:02",
+                    "updated_at": "2023-06-21 21:18:02",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 35,
+                        "date_start": "2023-07-04 17:30:00",
+                        "date_end": "2023-07-04 18:00:00"
+                    },
+                    "time": {
+                        "id": 7048,
+                        "minutes": 15,
+                        "balance_user_id": 146,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:18:02.000000Z",
+                        "updated_at": "2023-06-21T18:18:02.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "15",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 36,
+            "dateStart": {
+                "date": "2023-07-04 18:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 18:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 10,
+            "timeBooking": 20,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 4947,
+                    "minutes": 10,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 18:00:00",
+                    "date_end": "2023-07-04 18:10:00",
+                    "time_id": 7996,
+                    "order_id": null,
+                    "user_id": 8487,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-06-29 17:54:35",
+                    "updated_at": "2023-06-29 17:54:35",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 36,
+                        "date_start": "2023-07-04 18:00:00",
+                        "date_end": "2023-07-04 18:30:00"
+                    },
+                    "time": {
+                        "id": 7996,
+                        "minutes": 10,
+                        "balance_user_id": 202,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-29T14:54:35.000000Z",
+                        "updated_at": "2023-06-29T14:54:35.000000Z"
+                    }
+                },
+                {
+                    "id": 4948,
+                    "minutes": 10,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 18:10:00",
+                    "date_end": "2023-07-04 18:20:00",
+                    "time_id": 7997,
+                    "order_id": null,
+                    "user_id": 8486,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-06-29 17:54:52",
+                    "updated_at": "2023-06-29 17:54:52",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 36,
+                        "date_start": "2023-07-04 18:00:00",
+                        "date_end": "2023-07-04 18:30:00"
+                    },
+                    "time": {
+                        "id": 7997,
+                        "minutes": 10,
+                        "balance_user_id": 201,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-29T14:54:52.000000Z",
+                        "updated_at": "2023-06-29T14:54:52.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "20",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 37,
+            "dateStart": {
+                "date": "2023-07-04 18:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 19:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3767,
+                    "minutes": 30,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 18:30:00",
+                    "date_end": "2023-07-04 19:00:00",
+                    "time_id": 6772,
+                    "order_id": null,
+                    "user_id": 6817,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "\u0410",
+                    "temp_google_id": 369021,
+                    "created_at": "2023-06-21 21:17:58",
+                    "updated_at": "2023-06-21 21:17:58",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 37,
+                        "date_start": "2023-07-04 18:30:00",
+                        "date_end": "2023-07-04 19:00:00"
+                    },
+                    "time": {
+                        "id": 6772,
+                        "minutes": 30,
+                        "balance_user_id": 130,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:17:58.000000Z",
+                        "updated_at": "2023-06-21T18:17:58.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 38,
+            "dateStart": {
+                "date": "2023-07-04 19:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 19:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 11,
+            "timeBooking": 19,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 5149,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 19:00:00",
+                    "date_end": "2023-07-04 19:15:00",
+                    "time_id": 8134,
+                    "order_id": null,
+                    "user_id": 4322,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-07-03 12:25:06",
+                    "updated_at": "2023-07-03 12:25:06",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 38,
+                        "date_start": "2023-07-04 19:00:00",
+                        "date_end": "2023-07-04 19:30:00"
+                    },
+                    "time": {
+                        "id": 8134,
+                        "minutes": 15,
+                        "balance_user_id": 177,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-07-03T09:25:06.000000Z",
+                        "updated_at": "2023-07-03T09:25:06.000000Z"
+                    }
+                },
+                {
+                    "id": 5033,
+                    "minutes": 4,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 19:15:00",
+                    "date_end": "2023-07-04 19:19:00",
+                    "time_id": null,
+                    "order_id": 4406,
+                    "user_id": 8535,
+                    "type_id": 2,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": "10005271",
+                    "temp_google_id": null,
+                    "created_at": "2023-06-30 18:58:11",
+                    "updated_at": "2023-06-30 18:58:11",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 38,
+                        "date_start": "2023-07-04 19:00:00",
+                        "date_end": "2023-07-04 19:30:00"
+                    },
+                    "time": null
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "19",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 39,
+            "dateStart": {
+                "date": "2023-07-04 19:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 20:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3768,
+                    "minutes": 30,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 19:30:00",
+                    "date_end": "2023-07-04 20:00:00",
+                    "time_id": 6774,
+                    "order_id": null,
+                    "user_id": 6817,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "\u0410",
+                    "temp_google_id": 369022,
+                    "created_at": "2023-06-21 21:17:58",
+                    "updated_at": "2023-06-21 21:17:58",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 39,
+                        "date_start": "2023-07-04 19:30:00",
+                        "date_end": "2023-07-04 20:00:00"
+                    },
+                    "time": {
+                        "id": 6774,
+                        "minutes": 30,
+                        "balance_user_id": 130,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:17:58.000000Z",
+                        "updated_at": "2023-06-21T18:17:58.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 40,
+            "dateStart": {
+                "date": "2023-07-04 20:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 20:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 4923,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 20:15:00",
+                    "date_end": "2023-07-04 20:30:00",
+                    "time_id": 7981,
+                    "order_id": null,
+                    "user_id": 4826,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-06-28 19:47:22",
+                    "updated_at": "2023-06-28 19:47:22",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 40,
+                        "date_start": "2023-07-04 20:00:00",
+                        "date_end": "2023-07-04 20:30:00"
+                    },
+                    "time": {
+                        "id": 7981,
+                        "minutes": 15,
+                        "balance_user_id": 182,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-28T16:47:22.000000Z",
+                        "updated_at": "2023-06-28T16:47:23.000000Z"
+                    }
+                },
+                {
+                    "id": 5182,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 20:15:00",
+                    "date_end": "2023-07-04 20:30:00",
+                    "time_id": 8144,
+                    "order_id": null,
+                    "user_id": 4322,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-07-03 18:45:35",
+                    "updated_at": "2023-07-03 18:45:35",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 40,
+                        "date_start": "2023-07-04 20:00:00",
+                        "date_end": "2023-07-04 20:30:00"
+                    },
+                    "time": {
+                        "id": 8144,
+                        "minutes": 15,
+                        "balance_user_id": 177,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-07-03T15:45:35.000000Z",
+                        "updated_at": "2023-07-03T15:45:35.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 41,
+            "dateStart": {
+                "date": "2023-07-04 20:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3730,
+                    "minutes": 30,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 20:30:00",
+                    "date_end": "2023-07-04 21:00:00",
+                    "time_id": 6698,
+                    "order_id": null,
+                    "user_id": 6817,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "",
+                    "temp_google_id": 368718,
+                    "created_at": "2023-06-21 21:17:57",
+                    "updated_at": "2023-06-21 21:17:57",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 41,
+                        "date_start": "2023-07-04 20:30:00",
+                        "date_end": "2023-07-04 21:00:00"
+                    },
+                    "time": {
+                        "id": 6698,
+                        "minutes": 30,
+                        "balance_user_id": 130,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:17:57.000000Z",
+                        "updated_at": "2023-06-21T18:17:57.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 42,
+            "dateStart": {
+                "date": "2023-07-04 21:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 21:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 4804,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 21:00:00",
+                    "date_end": "2023-07-04 21:15:00",
+                    "time_id": 7894,
+                    "order_id": null,
+                    "user_id": 5189,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-06-26 18:01:32",
+                    "updated_at": "2023-06-26 18:01:32",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 42,
+                        "date_start": "2023-07-04 21:00:00",
+                        "date_end": "2023-07-04 21:30:00"
+                    },
+                    "time": {
+                        "id": 7894,
+                        "minutes": 15,
+                        "balance_user_id": 203,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-26T15:01:32.000000Z",
+                        "updated_at": "2023-06-26T15:01:32.000000Z"
+                    }
+                },
+                {
+                    "id": 4924,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 21:15:00",
+                    "date_end": "2023-07-04 21:30:00",
+                    "time_id": 7982,
+                    "order_id": null,
+                    "user_id": 4826,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-06-28 19:47:36",
+                    "updated_at": "2023-06-28 19:47:36",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 42,
+                        "date_start": "2023-07-04 21:00:00",
+                        "date_end": "2023-07-04 21:30:00"
+                    },
+                    "time": {
+                        "id": 7982,
+                        "minutes": 15,
+                        "balance_user_id": 182,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-28T16:47:36.000000Z",
+                        "updated_at": "2023-06-28T16:47:36.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 43,
+            "dateStart": {
+                "date": "2023-07-04 21:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 22:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3732,
+                    "minutes": 30,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 21:30:00",
+                    "date_end": "2023-07-04 22:00:00",
+                    "time_id": 6702,
+                    "order_id": null,
+                    "user_id": 6817,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "",
+                    "temp_google_id": 368720,
+                    "created_at": "2023-06-21 21:17:57",
+                    "updated_at": "2023-06-21 21:17:57",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 43,
+                        "date_start": "2023-07-04 21:30:00",
+                        "date_end": "2023-07-04 22:00:00"
+                    },
+                    "time": {
+                        "id": 6702,
+                        "minutes": 30,
+                        "balance_user_id": 130,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:17:57.000000Z",
+                        "updated_at": "2023-06-21T18:17:57.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 44,
+            "dateStart": {
+                "date": "2023-07-04 22:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 22:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3454,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 22:00:00",
+                    "date_end": "2023-07-04 22:15:00",
+                    "time_id": 6146,
+                    "order_id": null,
+                    "user_id": 6892,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "",
+                    "temp_google_id": 366958,
+                    "created_at": "2023-06-21 21:17:50",
+                    "updated_at": "2023-06-21 21:17:50",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 44,
+                        "date_start": "2023-07-04 22:00:00",
+                        "date_end": "2023-07-04 22:30:00"
+                    },
+                    "time": {
+                        "id": 6146,
+                        "minutes": 15,
+                        "balance_user_id": 133,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:17:50.000000Z",
+                        "updated_at": "2023-06-21T18:17:50.000000Z"
+                    }
+                },
+                {
+                    "id": 4805,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 22:15:00",
+                    "date_end": "2023-07-04 22:30:00",
+                    "time_id": 7895,
+                    "order_id": null,
+                    "user_id": 5189,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": null,
+                    "comment": null,
+                    "temp_google_id": null,
+                    "created_at": "2023-06-26 18:01:38",
+                    "updated_at": "2023-06-26 18:01:38",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 44,
+                        "date_start": "2023-07-04 22:00:00",
+                        "date_end": "2023-07-04 22:30:00"
+                    },
+                    "time": {
+                        "id": 7895,
+                        "minutes": 15,
+                        "balance_user_id": 203,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-26T15:01:38.000000Z",
+                        "updated_at": "2023-06-26T15:01:38.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 45,
+            "dateStart": {
+                "date": "2023-07-04 22:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 23:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 0,
+            "timeBooking": 30,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3734,
+                    "minutes": 30,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 22:30:00",
+                    "date_end": "2023-07-04 23:00:00",
+                    "time_id": 6706,
+                    "order_id": null,
+                    "user_id": 6817,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "",
+                    "temp_google_id": 368722,
+                    "created_at": "2023-06-21 21:17:58",
+                    "updated_at": "2023-06-21 21:17:58",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 45,
+                        "date_start": "2023-07-04 22:30:00",
+                        "date_end": "2023-07-04 23:00:00"
+                    },
+                    "time": {
+                        "id": 6706,
+                        "minutes": 30,
+                        "balance_user_id": 130,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:17:58.000000Z",
+                        "updated_at": "2023-06-21T18:17:58.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "30",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 46,
+            "dateStart": {
+                "date": "2023-07-04 23:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-04 23:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 15,
+            "timeBooking": 15,
+            "interval": 30,
+            "bookings": [
+                {
+                    "id": 3455,
+                    "minutes": 15,
+                    "count_people": 1,
+                    "date_start": "2023-07-04 23:00:00",
+                    "date_end": "2023-07-04 23:15:00",
+                    "time_id": 6148,
+                    "order_id": null,
+                    "user_id": 6892,
+                    "type_id": 3,
+                    "status_id": 2,
+                    "check_status_id": 2,
+                    "payment_type_id": 1,
+                    "comment": "",
+                    "temp_google_id": 366959,
+                    "created_at": "2023-06-21 21:17:50",
+                    "updated_at": "2023-06-21 21:17:50",
+                    "slotTimeKeys": {
+                        "date": "2023-07-04",
+                        "id": 46,
+                        "date_start": "2023-07-04 23:00:00",
+                        "date_end": "2023-07-04 23:30:00"
+                    },
+                    "time": {
+                        "id": 6148,
+                        "minutes": 15,
+                        "balance_user_id": 133,
+                        "type_id": 2,
+                        "status_id": 3,
+                        "order_id": null,
+                        "payment_type_id": null,
+                        "created_at": "2023-06-21T18:17:50.000000Z",
+                        "updated_at": "2023-06-21T18:17:50.000000Z"
+                    }
+                }
+            ],
+            "params": [],
+            "timeBookings": {
+                "inInterval": "15",
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        },
+        {
+            "date": "2023-07-04",
+            "timeId": 47,
+            "dateStart": {
+                "date": "2023-07-04 23:30:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "dateEnd": {
+                "date": "2023-07-05 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe\/Moscow"
+            },
+            "timeFree": 30,
+            "timeBooking": 0,
+            "interval": 30,
+            "bookings": [],
+            "params": [],
+            "timeBookings": {
+                "inInterval": null,
+                "outIntervalStartDate": null,
+                "outIntervalEndDate": null,
+                "outIntervalStartDateAndEndDate": null
+            }
+        }
+    ]
+}

@@ -4,7 +4,7 @@ div.MuiPaper-elevation1 {
 }
 
 div.booking-content__left.width-full {
-    width: 55em;
+    width: 100em;
     height: unset;
     margin: 0.5em;
     padding: 5px 0px 5px 0.5em;
@@ -89,6 +89,17 @@ tr.bookings__row:has([data-pr="1"]) {
     border-width: 3px;
     border-radius: 0.5em;
     font-weight: 800;
+}
+
+
+
+
+
+p.input-number-plus-minus__list-item {
+    cursor: pointer;
+    font-size: 16px;
+    margin: 3px;
+    text-align: center;
 }
 
 
